@@ -3,3 +3,5 @@
 ### Spirál Mátrix Generátor
 
 A feladat egy olyan program létrehozása, mely NxN-es mátrixokat kezel, melyben az egymást követő egész számok spirálszerűen helyezkednek el a mátrix közepéből az 1-es értéktől kiindulva.
+
+A feladat teljes leírása a [SpiralMatrix_2023.pdf](SpiralMatrix_2023.pdf) file-ban található.
